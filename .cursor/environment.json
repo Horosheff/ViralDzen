@@ -1,0 +1,4 @@
+{
+  "name": "ViralDzen",
+  "install": "python3 -m compileall -q viraldzen tests"
+}

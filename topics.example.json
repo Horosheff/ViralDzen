@@ -1,0 +1,15 @@
+{
+  "topics": ["ваша тема"],
+  "topic_pages": 1,
+  "topic_limit": 20,
+  "pages": 2,
+  "delay_seconds": 0.7,
+  "min_views": 0,
+  "top_n": 40,
+  "fetch_content": true,
+  "download_images": true,
+  "recirc": true,
+  "include_feed": true,
+  "channel_only": false,
+  "portable": false
+}
